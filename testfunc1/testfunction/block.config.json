@@ -1,0 +1,21 @@
+{
+  "blockId": "oU4azrjM28TbDmIkq4Rwn",
+  "name": "testfunction",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testfunction"
+  },
+  "parentBlockIDs": [
+    "amJa1Pkuy7SuZLFB1kSTx",
+    "Xyd2TMPuUGF5eK_7qAxza"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

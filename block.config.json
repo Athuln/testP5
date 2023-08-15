@@ -1,0 +1,21 @@
+{
+  "name": "testP5",
+  "type": "package",
+  "blockId": "amJa1Pkuy7SuZLFB1kSTx",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testP5"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "testfunc1": {
+      "directory": "testfunc1"
+    }
+  }
+}

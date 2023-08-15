@@ -1,0 +1,23 @@
+{
+  "blockId": "Xyd2TMPuUGF5eK_7qAxza",
+  "name": "testfunc1",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testfunc1"
+  },
+  "parentBlockIDs": [
+    "amJa1Pkuy7SuZLFB1kSTx"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "testfunction": {
+      "directory": "testfunction"
+    }
+  }
+}
